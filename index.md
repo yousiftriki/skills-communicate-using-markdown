@@ -24,3 +24,10 @@ int main() {
     cout << "Hello GitHub!" << endl;
     return 0;
 }
+
+## Task List
+
+- [x] Add headers
+- [x] Add an image
+- [x] Add a code example
+- [ ] Merge the pull request
